@@ -34,3 +34,61 @@ font-family: "Open Sans", sans-serif;
     font-weight: 600;
     margin-top: 30px;
 }
+.section-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 130px 200px;
+}
+.section-1-information{
+    max-width: 500px;
+    margin: 0;
+    
+}
+.section-title{
+    font-size: 50px;
+}
+.section-1-description, .bullet{
+    color: rgb(117, 116, 116);
+    
+}
+.icon{
+    color:  rgb(22, 216, 135);
+}
+.section-2{
+    margin-top: 30px;
+}
+.section-2-information{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 250px;
+    
+}
+.section-2-title{
+    font-size: 50px;
+    text-align: center;
+}
+.plan-information{
+    text-align: center;
+    
+}
+.plan-name{
+    font-size: 30px;
+    margin: 0;
+}
+.plan-description{
+    color: rgb(117, 116, 116);
+    
+}
+.section-3{
+    background: url('../images/watch.png');
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+}
+.section-3-image{
+    position: relative;
+}
+.section-3-info{
+    position: absolute;
+}
